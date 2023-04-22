@@ -1,0 +1,45 @@
+Cluster 1:
+144 Kelvington Drive, Monroeville
+750 Wall Avenue, Pitcairn
+1401 John Street, Monroeville
+1403 John Street, Monroeville
+510 California Avenue, Monroeville
+136 Mayberry Drive, Monroeville
+128 Mayberry Drive, Monroeville
+121 Mayberry Drive, Monroeville
+108 Bradberry Drive, Monroeville
+147 Kelvington Drive, Monroeville
+145 Kelvington Drive, Monroeville
+2155 Pendleton Drive, Monroeville
+113 Atterbury Road, Monroeville
+2249 Ramsey Road, Monroeville
+214 Londonderry Court, Monroeville
+2108 Old Ramsey Road, Monroeville
+1197 Colgrate Drive, Monroeville
+204 Villa Manor Drive Monroeville
+348 Barclay Avenue, Pittsburgh
+302 Forest Ridge Drive, Pittsburgh
+1005 Sherwood Road, Pittsburgh
+10 Greyhurst Drive, Pittsburgh
+140 Penhurst Drive, Pittsburgh
+
+Cluster 2:
+144 Kelvington Drive, Monroeville
+246 Ridge Lane, Murrysville
+3136 Barberry Court, Murrysville
+3639 Forbes Trail Drive, Murrysville
+2685 Stroschein Road, Monroeville
+5086 Cypress Drive, Murrysville
+4446 Gateway Drive, Monroeville
+4007 Monroeville Blvd, Monroeville
+245 Azalea Drive, Monroeville
+3297 School Road, Murrysville
+3112 Treeline Drive, Murrysville
+3561 Applecroft Lane, Murrysville
+3408 Lashan Drive, Murrysville
+4920 Twin Oaks Drive, Murrysville
+3441 North Hills Road, Murrysville
+699 Center Road, Pittsburgh
+6761 Leechburg Road, Verona
+217 Siple Street, Pittsburgh
+2405 Forest Drive, Pittsburgh
